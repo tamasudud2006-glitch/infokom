@@ -10,7 +10,7 @@ Adatok:
 
 R = 3Ohm
 C = 2uF
-
+# Tablazat:
 | Freki [Hz] | Uki [V] |
 |------------| --------|
 |    100     | 0,96    |
