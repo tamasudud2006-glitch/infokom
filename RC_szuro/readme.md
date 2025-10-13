@@ -14,6 +14,7 @@ $fh=1800Hz$
 # Adatok:
 
 $R = 3Ohm  $
+
 $C = 2uF $
 
 # Tablazat:
@@ -39,8 +40,9 @@ $C = 2uF $
 
 # Adatok:
 
-R = 3
-C = 30Ohm
+$R = 3 $
+
+$C = 30Ohm $
 
 # Tablazat:
 | Freki [Hz] | Uki [V] |
