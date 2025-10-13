@@ -11,6 +11,8 @@ $fh= {1 \over (2 * Pi * R * C)} $
 $fh= {1 \over (2 * Pi * 8R * 6uF)} $
 $fh=1800Hz$
 
+---
+
 # Adatok:
 
 $R = 3Ohm  $
