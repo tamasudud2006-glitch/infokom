@@ -43,46 +43,48 @@ A mérési pont a **V3 LABOR**, ahol a DVB-T adások vételének minőségét é
 | Hiba nélkül vett adás időtartama | 102 sec |   
 
 
-<details>   
-  <summary> A Miskolci TV adótorony által sugárzott frekvenciák </summary>
  
-</details>
+   A Miskolci TV adótorony által sugárzott frekvenciák 
+ <img width="866" height="357" alt="Képernyőkép 2025-12-08 121427" src="https://github.com/user-attachments/assets/4c149bea-99da-474f-aef8-74240b8f8783" />
 
-<details>   
-  <summary> A CH45 -ös csatornán mért spektrum </summary>
+
+
+  
+  A CH45 -ös csatornán mért spektrum 
   <img width="1280" height="720" alt="its_snapshot_0001" src="https://github.com/user-attachments/assets/e8abd699-4ac2-4512-9773-17a599165155" />
 
-</details>
 
-<details>   
-  <summary> A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0002.bmp" alt="NOISE MARGIN" />
-</details>
 
-<details>   
-  <summary> A CH45 -ös csatorna konstellációs diagramja </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0004.bmp" alt="CONSTELLATION" />
-</details>
+  
+   A CH45 -ös csatornán mért jelerősség, jel/zaj viszony, és bithibák 
+  <img width="1280" height="720" alt="its_snapshot_0002" src="https://github.com/user-attachments/assets/8b301e61-16ac-4715-8ebd-ebc65d266578" />
 
-<details>   
-  <summary> A CH45 -ös csatornán a DUNATV HD jelszint és TV adás </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0003.bmp" alt="DUNATV" />
-</details>
 
-<details>   
-  <summary> A CH45 -ös csatornán a DUNATV HD műsora </summary>
-  <img src="https://sandorpeteer.github.io/tavkozles/img/its_snapshot_0005.bmp" alt="DUNATV" />
-</details>
+
+  
+ A CH45 -ös csatorna konstellációs diagramja 
+  <img width="1280" height="720" alt="its_snapshot_0004" src="https://github.com/user-attachments/assets/8ca342f7-50f7-4848-86e7-6a6333769291" />
+
+
+   A CH45 -ös csatornán a DUNATV HD jelszint és TV adás 
+  <img width="1280" height="720" alt="its_snapshot_0003" src="https://github.com/user-attachments/assets/eb9e8746-63a3-442f-8651-3c520da94ae1" />
+
+
+
+
+   A CH45 -ös csatornán a DUNATV HD műsora 
+  <img width="1280" height="720" alt="its_snapshot_0005" src="https://github.com/user-attachments/assets/ecab0fb7-2c57-469f-a067-7ea41b6fdab0" />
+
 
 <br>
 
 ### 4. **Mérési eredmények**
 
-- **Jelerősség**: A mért jelerősség **64 dBu**. Ez az érték stabil volt **200 másodperces időtartam alatt**, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.  
+- **Jelerősség**: A mért jelerősség ** 46 dBu**. Ez az érték stabil volt **102 másodperces időtartam alatt**, és megfelel a DVB-T előírásoknak. A mérési helyen a jel optimális volt.  
   
-- **Modulációs paraméterek**: A **64-QAM** moduláció esetén a mért jel/zaj viszony (SNR) **12 dB** körül váltakozott, ami megfelel a követelményeknek.  
+- **Modulációs paraméterek**: A **64-QAM** moduláció esetén a mért jel/zaj viszony (SNR) **24.1 dB** körül váltakozott, ami megfelel a követelményeknek.  
 
-- **Modulation Error Ratio (MER)**: A mért MER érték **28.2 dB** volt, amely azt mutatja, hogy a vétel **probléma mentes** volt.  
+- **Modulation Error Ratio (MER)**: A mért MER érték **27.8 dB** volt, amely azt mutatja, hogy a vétel **probléma mentes** volt.  
 
 ### 5. **Elemzés**
 
